@@ -1,0 +1,10 @@
+flask
+torch>=1.9.0
+transformers>=4.30.0
+sentencepiece
+scikit-learn
+nltk
+pandas
+tqdm
+flair==0.9
+indic-nlp-library @ git+https://github.com/anoopkunchukuttan/indic_nlp_library.git
